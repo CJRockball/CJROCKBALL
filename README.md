@@ -23,11 +23,27 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 
- </div>
+</div>
+### Frameworks and Libraries:
+<div>
+
+</div>
+
+### Databases and Cloudhosting:
+<div>
+
+</div>
+
+### Software and Tools:
+<div>
+
+</div>
+
+
 
 
 ---
