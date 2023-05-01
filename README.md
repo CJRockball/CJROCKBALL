@@ -13,9 +13,12 @@
  <img src="https://komarev.com/ghpvc/?username=CJROCKBALL&style=for-the-badge&color=blue" alt=""/>
 </div>
 
+---
 
-
-
+### :man_technologist: About me:
+- :telescope: Stuff
+- :zap: Stuff
+- :mailbox:
 
 
 <!--
