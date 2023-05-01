@@ -28,17 +28,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 
 </div>
-### Frameworks and Libraries:
+### :toolbox: Frameworks and Libraries:
 <div>
 
 </div>
 
-### Databases and Cloudhosting:
+### :file_cabinet: Databases and Cloudhosting:
 <div>
 
 </div>
 
-### Software and Tools:
+### :computer: Software and Tools:
 <div>
 
 </div>
