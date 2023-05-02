@@ -59,6 +59,7 @@
   <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" style="max-width: 100%;">
   <img alt="Dask" src="https://img.shields.io/badge/Dask-EF1161?style=plastic&logo=dask&logoColor=white" style="max-width: 100%;">
   <img alt="Cuda" src="https://img.shields.io/badge/Cuda-76B900?style=plastic&logo=cuda&logoColor=white" style="max-width: 100%;">
+  
 </div>
 
 ### :file_cabinet: Databases and Cloudhosting:
