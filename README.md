@@ -26,8 +26,15 @@
 
 ---
 
-### :hammer_and_wrench: Languages:
+### :hammer_and_wrench: Maub Languages:
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+
+</div>
+
+## Some Experience:
+<div>
+<!--- C++, Lisp, Assembly, PHP, Java, R, Javascript --->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 
 </div>
