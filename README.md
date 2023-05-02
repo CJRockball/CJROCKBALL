@@ -74,6 +74,10 @@
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white" style="max-width: 100%;">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D7?style=plastic&logo=visual-studio-code&logoColor=white" style="max-width: 100%;">
   <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" style="max-width: 100%;">
+  <img alt="RPi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" style="max-width: 100%;">
+  <img alt="MINITAB" src="https://img.shields.io/badge/MINITAB-E44C30?style=plastic&logo=minitab&logoColor=white" style="max-width: 100%;">
+  <img alt="JMP" src="https://img.shields.io/badge/JMP-E44C30?style=plastic&logo=jmp&logoColor=white" style="max-width: 100%;">
+
 </div>
 
 
