@@ -43,6 +43,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="max-width: 100%;">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="max-width: 100%;">
   <img alt="Assembly" src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=asmsembly&logoColor=white" style="max-width: 100%;">
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" style="max-width: 100%;">
 
 
 
