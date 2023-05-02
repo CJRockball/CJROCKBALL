@@ -42,7 +42,7 @@
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="max-width: 100%;">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="max-width: 100%;">
-  <img alt="Assembly" src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=asm-hex&logoColor=white" style="max-width: 100%;">
+  <img alt="Assembly" src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=asmsembly&logoColor=white" style="max-width: 100%;">
 
 
 
