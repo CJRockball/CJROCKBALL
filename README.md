@@ -73,7 +73,8 @@
 <div>
   <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;">
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" style="max-width: 100%;">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;">
+  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;">
 </div>
 
 
