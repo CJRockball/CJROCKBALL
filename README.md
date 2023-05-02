@@ -50,34 +50,30 @@
 
 ### :toolbox: Frameworks and Libraries:
 <div>
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="max-width: 100%;">
-  <img alt="Fastapi" src="https://img.shields.io/badge/Fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=white" style="max-width: 100%;">
-  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-276DC3?style=for-the-badge&logo=numpy&logoColor=white" style="max-width: 100%;">
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-276DC3?style=for-the-badge&logo=pandas&logoColor=white" style="max-width: 100%;">
-  <img alt="Sklearn" src="https://img.shields.io/badge/Sklearn-276DC3?style=for-the-badge&logo=sklearn&logoColor=white" style="max-width: 100%;">
-  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-276DC3?style=for-the-badge&logo=xgboost&logoColor=white" style="max-width: 100%;">
-  <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-276DC3?style=for-the-badge&logo=tensorflow&logoColor=white" style="max-width: 100%;">
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
-
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" style="max-width: 100%;">
+  <img alt="Fastapi" src="https://img.shields.io/badge/Fastapi-000000?style=plastic&logo=fastapi&logoColor=white" style="max-width: 100%;">
+  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-276DC3?style=plastic&logo=numpy&logoColor=white" style="max-width: 100%;">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-276DC3?style=plastic&logo=pandas&logoColor=white" style="max-width: 100%;">
+  <img alt="Sklearn" src="https://img.shields.io/badge/Sklearn-276DC3?style=plastic&logo=sklearn&logoColor=white" style="max-width: 100%;">
+  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-276DC3?style=plastic&logo=xgboost&logoColor=white" style="max-width: 100%;">
+  <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-276DC3?style=plastic&logo=tensorflow&logoColor=white" style="max-width: 100%;">
 </div>
 
 ### :file_cabinet: Databases and Cloudhosting:
 <div>
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" style="max-width: 100%;">
-  <img alt="Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" style="max-width: 100%;">
-  <img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="max-width: 100%;">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;">
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white" style="max-width: 100%;">
+  <img alt="Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" style="max-width: 100%;">
+  <img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" style="max-width: 100%;">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" style="max-width: 100%;">
   
 </div>
 
 ### :computer: Software and Tools:
 <div>
-  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;">
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" style="max-width: 100%;">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="max-width: 100%;">
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="max-width: 100%;">
+  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white" style="max-width: 100%;">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white" style="max-width: 100%;">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D7?style=plastic&logo=visual-studio-code&logoColor=white" style="max-width: 100%;">
+  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" style="max-width: 100%;">
 </div>
 
 
