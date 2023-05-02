@@ -29,6 +29,8 @@
 ### :hammer_and_wrench: Main Languages:
 <div>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="max-width: 100%;">
+  <img alt="HTML" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="max-width: 100%;">
+  <img alt="SQL" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=sql&logoColor=white" style="max-width: 100%;">
 
 </div>
 
@@ -73,8 +75,8 @@
 <div>
   <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;">
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" style="max-width: 100%;">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;">
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="max-width: 100%;">
+  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="max-width: 100%;">
 </div>
 
 
