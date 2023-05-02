@@ -47,6 +47,16 @@
 
 ### :toolbox: Frameworks and Libraries:
 <div>
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="max-width: 100%;">
+  <img alt="Fastapi" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
+  <img alt="Numpy" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
+  <img alt="Pandas" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
+  <img alt="Tensorflow" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
+  <img alt="Sklearn" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
 
 </div>
 
@@ -54,10 +64,8 @@
 <div>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;">
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" style="max-width: 100%;">
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
+  <img alt="Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" style="max-width: 100%;">
+  <img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="max-width: 100%;">
 
 
 </div>
