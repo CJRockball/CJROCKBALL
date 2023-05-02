@@ -20,7 +20,7 @@
 - :zap: Stuff
 - :mailbox:
 - :panda: Demos
-    - 1. [Example1]<a href="https://www.linkedin.com/in/patrick-cj-carlberg">
+    - 1. [Tips Dataset](https://github.com/CJRockball/pred_service)
     - 2.
     - 3
 
