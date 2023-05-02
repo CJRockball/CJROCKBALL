@@ -80,6 +80,7 @@
   <img alt="RPi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=plastic&logo=Raspberry%20Pi&logoColor=white" style="max-width: 100%;">
   <img alt="MINITAB" src="https://img.shields.io/badge/MINITAB-4EAA25?style=plastic&logo=minitab&logoColor=white" style="max-width: 100%;">
   <img alt="JMP" src="https://img.shields.io/badge/JMP-FA5C5C?style=plastic&logo=jmp&logoColor=white" style="max-width: 100%;">
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-FA5C5C?style=plastic&logo=tableau&logoColor=white" style="max-width: 100%;">
 
 </div>
 
