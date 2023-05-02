@@ -20,10 +20,9 @@
 - :zap: Stuff
 - :mailbox: Stuff
 - :telescope: Demo
-    - 1. [Tips Dataset](https://github.com/CJRockball/pred_service)
-    - 2.
-    - 3
-
+    - [Tips Dataset](https://github.com/CJRockball/pred_service)
+    - [AV Food Demand](https://github.com/CJRockball/pred_service)
+    - [Small Programs](https://github.com/CJRockball/pred_service)
 
 ---
 
