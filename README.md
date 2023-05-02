@@ -48,7 +48,7 @@
   <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0B5CAB?style=plastic&logo=matlab3&logoColor=white" style="max-width: 100%;">
 </div>
 
-### :toolbox: Frameworks and Libraries:
+### :toolbox: Python Frameworks and Libraries:
 <div>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" style="max-width: 100%;">
   <img alt="Fastapi" src="https://img.shields.io/badge/Fastapi-000000?style=plastic&logo=fastapi&logoColor=white" style="max-width: 100%;">
