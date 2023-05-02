@@ -28,7 +28,7 @@
 
 ### :hammer_and_wrench: Main Languages:
 <div>
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="max-width: 100%;">
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white" style="max-width: 100%;">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" style="max-width: 100%;">
 
