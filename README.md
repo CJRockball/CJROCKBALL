@@ -48,7 +48,7 @@
 ### :toolbox: Frameworks and Libraries:
 <div>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="max-width: 100%;">
-  <img alt="Fastapi" src="https://img.shields.io/badge/Fastapi-000000?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
+  <img alt="Fastapi" src="https://img.shields.io/badge/Fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=white" style="max-width: 100%;">
   <img alt="Numpy" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
   <img alt="Pandas" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
   <img alt="Tensorflow" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
