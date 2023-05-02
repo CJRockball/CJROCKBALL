@@ -18,8 +18,8 @@
 ### :man_technologist: About me:
 - :telescope: Stuff
 - :zap: Stuff
-- :mailbox:
-- :panda: Demos
+- :mailbox: Stuff
+- :telescope: Demo
     - 1. [Tips Dataset](https://github.com/CJRockball/pred_service)
     - 2.
     - 3
