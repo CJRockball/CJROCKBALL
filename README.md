@@ -54,7 +54,7 @@
   <img alt="Fastapi" src="https://img.shields.io/badge/Fastapi-000000?style=plastic&logo=fastapi&logoColor=white" style="max-width: 100%;">
   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?style=plastic&logo=numpy&logoColor=white" style="max-width: 100%;">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white" style="max-width: 100%;">
-  <img alt="Sklearn" src="https://img.shields.io/badge/Sklearn-276DC3?style=plastic&logo=sklearn&logoColor=white" style="max-width: 100%;">
+  <img alt="Sklearn" src="https://img.shields.io/badge/Sklearn-2878A2?style=plastic&logo=sklearn&logoColor=white" style="max-width: 100%;">
   <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-276DC3?style=plastic&logo=xgboost&logoColor=white" style="max-width: 100%;">
   <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" style="max-width: 100%;">
 </div>
