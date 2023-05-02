@@ -32,11 +32,10 @@
 
 </div>
 
-#### Some Experience:
+#### :hammer_and_wrench: Some Experience:
 <div>
 <!--- C++, Lisp, Assembly, PHP, Java, R, Javascript --->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-
+  <img alt="Python" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="max-width: 100%;">
 </div>
 
 ### :toolbox: Frameworks and Libraries:
