@@ -68,6 +68,7 @@
   <img alt="Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" style="max-width: 100%;">
   <img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" style="max-width: 100%;">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" style="max-width: 100%;">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-0078D7?style=plastic&logo=docker&logoColor=white" style="max-width: 100%;">
   
 </div>
 
