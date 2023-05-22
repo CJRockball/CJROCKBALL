@@ -35,7 +35,7 @@ data anlaysis with Python, storage in databases and displaying results through t
     - [Tips Dataset](https://github.com/CJRockball/pred_service)
     - [AV Food Demand](https://github.com/CJRockball/pred_service)
     - Small Programs
-      - [Mandelbrot](https://github.com/CJRockball/pred_service)
+      - [Mandelbrot](https://github.com/CJRockball/Mandelbrot/tree/main)
       - [Streaming](https://github.com/CJRockball/pred_service)
 
 ---
