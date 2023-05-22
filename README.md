@@ -31,9 +31,6 @@ Although I've tried out some different languages and frameworks, I mainly focus 
 data anlaysis with Python, storage in databases and displaying results through the web.
 </div>
 
-- :telescope: Stuff
-- :zap: Stuff
-- :mailbox: Stuff
 - :telescope: Demo
     - [Tips Dataset](https://github.com/CJRockball/pred_service)
     - [AV Food Demand](https://github.com/CJRockball/pred_service)
