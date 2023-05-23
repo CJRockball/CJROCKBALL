@@ -30,7 +30,7 @@ mainly from Sklearn, XGBoost, Tensorflow and PyMC3 for tabular data and time ser
 Although I've tried out some different languages and frameworks, I mainly focus on 
 data anlaysis with Python, storage in databases and displaying results through the web.
 </div>
-
+<br>
 - :telescope: Demo
     - [Tips Dataset](https://github.com/CJRockball/pred_service)
     - [AV Food Demand](https://github.com/CJRockball/Food_Prediction)
