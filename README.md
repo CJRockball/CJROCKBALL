@@ -33,7 +33,7 @@ data anlaysis with Python, storage in databases and displaying results through t
 
 - :telescope: Demo
     - [Tips Dataset](https://github.com/CJRockball/pred_service)
-    - [AV Food Demand](https://github.com/CJRockball/pred_service)
+    - [AV Food Demand](https://github.com/CJRockball/Food_Prediction)
     - Small Programs
       - [Mandelbrot](https://github.com/CJRockball/Mandelbrot/tree/main)
       - [Streaming](https://github.com/CJRockball/streaming-plot/tree/main)
