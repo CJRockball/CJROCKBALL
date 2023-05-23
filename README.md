@@ -29,7 +29,7 @@ mainly from Sklearn, XGBoost, Tensorflow and PyMC3 for tabular data and time ser
 <br><br>
 Although I've tried out some different languages and frameworks, I mainly focus on 
 data anlaysis with Python, storage in databases and displaying results through the web.
-<br>
+  <p></p>
 </div>
 
 - :telescope: Demo
