@@ -18,7 +18,7 @@
 ### :man_technologist: About me:
 <div>I'm a nanotechnology scientist from Sweden, currently based in Singapore, who loves data exploration.
 <br><br>
-My intrest in and usage of programming languages has always been technical and math based.
+My interest in and usage of programming languages has always been technical and math based.
 For about a decade I used Matlab, becuase universities have access to all the modules. 
 In 2015 I wanted an open source calculator I could share with colleagues, switched to Python and never looked back.
 <br><br>
