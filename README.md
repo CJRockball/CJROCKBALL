@@ -22,7 +22,7 @@ My intrest in and usage of programming languages has always been technical and m
 For about a decade I used Matlab, becuase universities have access to all the modules. 
 In 2015 I wanted an open source calculator I could share with colleagues, switched to Python and never looked back.
 <br><br>
-As a scientist my work invovled statistical analysis of machine data 
+As a scientist my work invovles statistical analysis of machine data 
 and material/device measurements. This was mainly done through different hypothesis tests, ANOVA,
 and time series data. Building on this I have explored different machine learning tools,
 mainly from Sklearn, XGBoost, Tensorflow and PyMC3 for tabular data and time series.
