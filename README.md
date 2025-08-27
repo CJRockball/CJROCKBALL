@@ -2,7 +2,8 @@
 
 ---
 
-<h2>Patrick Carlberg&nbsp;|&nbsp;Scientist</h2>&nbsp;|&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=CJROCKBALL&style=for-the-badge&color=blue)
+<p style="font-size:1.9rem; font-weight:700; margin:0;">Patrick Carlberg&nbsp;|&nbsp;Scientist</p>
+![Profile Views](https://komarev.com/ghpvc/?username=CJROCKBALL&style=for-the-badge&color=blue)
 
 **Nanotechnology Research Scientist&nbsp;|&nbsp;Machine Learning Engineer&nbsp;|&nbsp;Data Analysis**
 
