@@ -66,20 +66,6 @@ Python • PyTorch • GBDT • scikit-learn • PyMC3 • NumPy/SciPy • Panda
 
 </div>
 
-#### :hammer_and_wrench: Some Experience:
-<div>
-<!--- C++, Lisp, Assembly, PHP, Java, R, Javascript --->
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white" style="max-width: 100%;">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" style="max-width: 100%;">
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white" style="max-width: 100%;">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" style="max-width: 100%;">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" style="max-width: 100%;">
-  <img alt="Assembly" src="https://img.shields.io/badge/Assembly-525252?style=plastic&logo=asmsembly&logoColor=white" style="max-width: 100%;">
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white" style="max-width: 100%;">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-157286?style=plastic&logo=css3&logoColor=white" style="max-width: 100%;">
-  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0B5CAB?style=plastic&logo=matlab3&logoColor=white" style="max-width: 100%;">
-</div>
-
 ### :toolbox: Python Frameworks and Libraries:
 <div>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" style="max-width: 100%;">
@@ -118,6 +104,19 @@ Python • PyTorch • GBDT • scikit-learn • PyMC3 • NumPy/SciPy • Panda
 </div>
 
 
+#### :hammer_and_wrench: Some Experience:
+<div>
+<!--- C++, Lisp, Assembly, PHP, Java, R, Javascript --->
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white" style="max-width: 100%;">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" style="max-width: 100%;">
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white" style="max-width: 100%;">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" style="max-width: 100%;">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" style="max-width: 100%;">
+  <img alt="Assembly" src="https://img.shields.io/badge/Assembly-525252?style=plastic&logo=asmsembly&logoColor=white" style="max-width: 100%;">
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white" style="max-width: 100%;">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-157286?style=plastic&logo=css3&logoColor=white" style="max-width: 100%;">
+  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0B5CAB?style=plastic&logo=matlab3&logoColor=white" style="max-width: 100%;">
+</div>
 
 
 ---
