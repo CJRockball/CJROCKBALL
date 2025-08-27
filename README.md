@@ -68,13 +68,12 @@ Python • PyTorch • GBDT • scikit-learn • PyMC3 • NumPy/SciPy • Panda
 
 ### :toolbox: Python Frameworks and Libraries:
 <div>
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" style="max-width: 100%;">
   <img alt="Fastapi" src="https://img.shields.io/badge/Fastapi-000000?style=plastic&logo=fastapi&logoColor=white" style="max-width: 100%;">
   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?style=plastic&logo=numpy&logoColor=white" style="max-width: 100%;">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white" style="max-width: 100%;">
   <img alt="Sklearn" src="https://img.shields.io/badge/Sklearn-2878A2?style=plastic&logo=sklearn&logoColor=white" style="max-width: 100%;">
   <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-276DC3?style=plastic&logo=xgboost&logoColor=white" style="max-width: 100%;">
-  <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" style="max-width: 100%;">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-FF6F00?style=plastic&logo=pytorch&logoColor=white" style="max-width: 100%;">
   <img alt="Dask" src="https://img.shields.io/badge/Dask-EF1161?style=plastic&logo=dask&logoColor=white" style="max-width: 100%;">
   <img alt="Cuda" src="https://img.shields.io/badge/Cuda-76B900?style=plastic&logo=cuda&logoColor=white" style="max-width: 100%;">
   
