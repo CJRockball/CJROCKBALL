@@ -49,12 +49,26 @@ Python • PyTorch • GBDT • scikit-learn • PyMC3 • NumPy/SciPy • Panda
 
 
 
-- :telescope: Demo
-    - [Tips Dataset](https://github.com/CJRockball/pred_service)
-    - [AV Food Demand](https://github.com/CJRockball/Food_Prediction)
-    - Small Programs
-      - [Mandelbrot](https://github.com/CJRockball/Mandelbrot/tree/main)
-      - [Streaming](https://github.com/CJRockball/streaming-plot/tree/main)
+🔭 **Demo Corner**
+
+🥧 **Tips API**  
+FastAPI microservice predicting restaurant totals (Docker-ready).  
+→ <https://github.com/CJRockball/pred_service>
+
+🛒 **Food Demand Forecast**  
+End-to-end notebooks for the AV dataset with XGBoost pipelines.  
+→ <https://github.com/CJRockball/Food_Prediction>
+
+🌀 **Mandelbrot GPU**  
+CUDA-powered fractal explorer with real-time zoom.  
+→ <https://github.com/CJRockball/Mandelbrot>
+
+📈 **Streaming Plot**  
+WebSocket server streaming data into interactive Bokeh charts.  
+→ <https://github.com/CJRockball/streaming-plot>
+
+
+
 
 ---
 
