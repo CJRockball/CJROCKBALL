@@ -1,8 +1,8 @@
 <h1>🚀 Launching Discoveries with **Data-Driven Code**</h1>  
-<p style="font-size: 24px;"> Sample Text </p>
+
 ---
 
-<span style="font-size:24px;">Patrick Carlberg&nbsp;|&nbsp;Scientist&nbsp;|&nbsp;!</span> [Profile Views](https://komarev.com/ghpvc/?username=CJROCKBALL&style=for-the-badge&color=blue)
+<h1>Patrick Carlberg&nbsp;|&nbsp;Scientist&nbsp;|&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=CJROCKBALL&style=for-the-badge&color=blue)</h1>
 
 **Nanotechnology Research Scientist&nbsp;|&nbsp;Machine Learning Engineer&nbsp;|&nbsp;Data Analysis**
 
