@@ -1,8 +1,6 @@
 # 🚀 Launching Discoveries with **Data-Driven Code**  
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket-small.gif" height="28">
 
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-cj-carlberg)  
 ![Profile Views](https://komarev.com/ghpvc/?username=CJROCKBALL&style=for-the-badge&color=blue)
 
 ---
