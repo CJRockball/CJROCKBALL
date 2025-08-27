@@ -37,20 +37,16 @@ Active GitHub contributor exploring MLOps, modern web frameworks, and interactiv
 🔭 **Demo Corner**
 
 🥧 **Tips API**  
-FastAPI microservice predicting restaurant totals (Docker-ready).  
-→ <https://github.com/CJRockball/pred_service>
+FastAPI microservice predicting restaurant totals (Docker-ready).  → <https://github.com/CJRockball/pred_service>
 
 🛒 **Food Demand Forecast**  
-End-to-end notebooks for the AV dataset with XGBoost pipelines.  
-→ <https://github.com/CJRockball/Food_Prediction>
+End-to-end notebooks for the AV dataset with XGBoost pipelines.  → <https://github.com/CJRockball/Food_Prediction>
 
 🌀 **Mandelbrot GPU**  
-CUDA-powered fractal explorer with real-time zoom.  
-→ <https://github.com/CJRockball/Mandelbrot>
+CUDA-powered fractal explorer with real-time zoom.  → <https://github.com/CJRockball/Mandelbrot>
 
 📈 **Streaming Plot**  
-WebSocket server streaming data into interactive Bokeh charts.  
-→ <https://github.com/CJRockball/streaming-plot>
+WebSocket server streaming data into interactive Bokeh charts.  → <https://github.com/CJRockball/streaming-plot>
 
 ---
 
