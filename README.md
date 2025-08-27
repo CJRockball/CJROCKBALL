@@ -1,4 +1,4 @@
-<h1>🚀 Launching Discoveries with **Data-Driven Code**</h1>  
+<h2>🚀 Launching Discoveries with **Data-Driven Code**</h2>  
 
 ---
 
