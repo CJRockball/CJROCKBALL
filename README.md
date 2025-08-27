@@ -30,7 +30,7 @@ Building **stateful AI agents** is my newest focus. I’m using the open-source 
 - **Visualization** · Interactive plotting, real-time dashboards, GPU-accelerated graphics  
 - **Web Development** · FastAPI, WebSocket streaming, responsive data applications  
 
-🛠 **Current Interests** · Scientific computing • Algorithm optimization • Multi-angle dataset exploration • Async web APIs • Automated validation pipelines  
+🛠 **Current Interests** · Scientific computing • Algorithm optimization • Multi-angle dataset exploration • Async web APIs • Automated validation pipelines • Agentic systems  
 
 📚 **Tech Stack Snapshot** · Python • PyTorch • GBDT • scikit-learn • PyMC3 • NumPy/SciPy • Pandas/Polars • FastAPI • WebSocket • Docker • SQL  
 
