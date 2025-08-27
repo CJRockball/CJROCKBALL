@@ -19,6 +19,11 @@ Projects range from CUDA-accelerated Mandelbrot visualizations to WebSocket stre
 **🔄 Continuous Learning & Experimentation**  
 Active GitHub contributor exploring MLOps, modern web frameworks, and interactive data applications while maintaining strong statistical foundations.
 
+
+**🤖 Agents & LangGraph**  
+Building **stateful AI agents** is my newest focus. I’m using the open-source [`langgraph`](https://github.com/langchain-ai/langgraph) framework to prototype multi-step, tool-using agents that persist state, support human-in-the-loop checkpoints, and recover from failures. My companion repo [`agent-lab`](https://github.com/CJRockball/agent-lab) (work-in-progress) collects reusable patterns—React-style planners, streaming memory nodes, and LangGraph + FastAPI micro-services—for anyone exploring agentic workflows.
+
+
 **🔍 Technical Interests**  
 - **Scientific Computing** · NumPy, SciPy, mathematical modeling, algorithm optimization  
 - **ML & Statistics** · Experimental design, time series, Bayesian methods, ensemble models  
