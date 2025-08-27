@@ -1,6 +1,6 @@
 ##🚀 Launching Discoveries with **Data-Driven Code** 
 
-##Patrick Carlberg&nbsp;|&nbsp;Scientist</p>
+##Patrick Carlberg&nbsp;|&nbsp;Scientist
 
 ---
 
