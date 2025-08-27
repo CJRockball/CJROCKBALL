@@ -34,14 +34,23 @@ Active GitHub contributor exploring MLOps, modern web frameworks, and interactiv
 
 📚 **Tech Stack Snapshot** · Python • PyTorch • GBDT • scikit-learn • PyMC3 • NumPy/SciPy • Pandas/Polars • FastAPI • WebSocket • Docker • SQL  
 
-## 🔭 Demo Corner
+🔭 **Demo Corner**
 
-| Demo | Description | Repository |
-|------|-------------|------------|
-| 🥧 **Tips API** | FastAPI microservice predicting restaurant totals (Docker-ready) | [`pred_service`](https://github.com/CJRockball/pred_service) |
-| 🛒 **Food Demand Forecast** | End-to-end notebooks for the AV dataset with XGBoost pipelines | [`Food_Prediction`](https://github.com/CJRockball/Food_Prediction) |
-| 🌀 **Mandelbrot GPU** | CUDA-powered fractal explorer with real-time zoom | [`Mandelbrot`](https://github.com/CJRockball/Mandelbrot) |
-| 📈 **Streaming Plot** | WebSocket server streaming data into interactive Bokeh charts | [`streaming-plot`](https://github.com/CJRockball/streaming-plot) |
+🥧 **Tips API**  
+FastAPI microservice predicting restaurant totals (Docker-ready).  
+→ <https://github.com/CJRockball/pred_service>
+
+🛒 **Food Demand Forecast**  
+End-to-end notebooks for the AV dataset with XGBoost pipelines.  
+→ <https://github.com/CJRockball/Food_Prediction>
+
+🌀 **Mandelbrot GPU**  
+CUDA-powered fractal explorer with real-time zoom.  
+→ <https://github.com/CJRockball/Mandelbrot>
+
+📈 **Streaming Plot**  
+WebSocket server streaming data into interactive Bokeh charts.  
+→ <https://github.com/CJRockball/streaming-plot>
 
 ---
 
