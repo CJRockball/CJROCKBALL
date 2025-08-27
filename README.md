@@ -1,6 +1,5 @@
 # 🚀 Launching Discoveries with **Data-Driven Code**  
-<!-- Small looping rocket (18 px high) -->
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket-small.gif" height="18">
+
 ---
 
 # Patrick Carlberg&nbsp;|&nbsp;Scientist&nbsp;|&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=CJROCKBALL&style=for-the-badge&color=blue)
