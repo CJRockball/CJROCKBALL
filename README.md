@@ -14,23 +14,40 @@
 </div>
 
 ---
+# Patrick Carlberg | Data Engineer & Research Scientist
 
-### :man_technologist: About me:
-<div>I'm a nanotechnology scientist from Sweden, currently based in Singapore, who loves data exploration.
-<br><br>
-My interest in and usage of programming languages has always been technical and math based.
-For about a decade I used Matlab, becuase universities have access to all the modules. 
-In 2015 I wanted an open source calculator I could share with colleagues, switched to Python and never looked back.
-<br><br>
-As a scientist my work invovles statistical analysis of machine data 
-and material/device measurements. This was mainly done through different hypothesis tests, ANOVA,
-and time series data. Building on this I have explored different machine learning tools,
-mainly from Sklearn, XGBoost, Tensorflow and PyMC3 for tabular data and time series.
-<br><br>
-Although I've tried out some different languages and frameworks, I mainly focus on 
-data anlaysis with Python, storage in databases and displaying results through the web.
-  <p></p>
-</div>
+**Nanotechnology Research Scientist | Machine Learning Engineer | Data Analysis**
+
+**🔬 Semiconductor & Materials Science Background**
+PhD-level nanotechnology scientist with 10+ years of experience in statistical analysis of semiconductor manufacturing processes, material characterization, and device measurements. Expertise spans hypothesis testing, ANOVA, time series analysis, and Six Sigma methodologies applied to semiconductor tool development and process optimization.
+
+**📊 Data Science & ML Engineering**
+Specialized in tabular data analysis and time series modeling using Python ecosystem (scikit-learn, XGBoost, PyTorch, PyMC3). 
+
+**🔧 Data Science in Production**
+Some experience in building production ML systems with FastAPI, implementing MLOps practices, and deploying scalable data solutions. Experience ranges from experimental design and statistical process control to predictive modeling and automated decision systems.
+
+**💻 Technical Problem Solver**
+Passionate about building tools that solve real-world problems. Projects range from interactive mathematical visualizations (CUDA-accelerated Mandelbrot generators) to streaming data applications and predictive modeling services. Strong advocate for clean code, comprehensive documentation, and user-centric design.
+
+**🔄 Continuous Learning & Experimentation**  
+Active GitHub contributor with consistent project development and exploration of emerging technologies. Recent focus areas include MLOps best practices, modern web frameworks, and interactive data applications. Always experimenting with new tools while maintaining solid foundations in statistical computing.
+
+**🔍 Technical Interests**
+- **Scientific Computing**: NumPy, SciPy, mathematical modeling, algorithm optimization
+- **ML & Statistics**: Experimental design, time series, Bayesian methods, ensemble models  
+- **Visualization**: Interactive plotting, real-time dashboards, GPU-accelerated graphics
+- **Web Development**: FastAPI, WebSocket streaming, responsive data applications
+
+
+🛠 **Current Interests**  
+Scientific computing • Algorithm optimization • Multi-angle dataset exploration • Async web APIs • Automated validation pipelines
+
+
+📚 **Tech Stack Snapshot**  
+Python • PyTorch • GBDT • scikit-learn • PyMC3 • NumPy/SciPy • Pandas/Polars • FastAPI • WebSocket • Docker • SQL  
+
+
 
 - :telescope: Demo
     - [Tips Dataset](https://github.com/CJRockball/pred_service)
