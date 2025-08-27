@@ -1,4 +1,4 @@
-<p style="font-size: 24px;">🚀 Launching Discoveries with **Data-Driven Code**</p>  
+<h1>🚀 Launching Discoveries with **Data-Driven Code**</h1>  
 <p style="font-size: 24px;"> Sample Text </p>
 ---
 
