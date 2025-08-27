@@ -1,8 +1,8 @@
-<h1 align="left" style="border:none; padding-bottom:0;">🚀 Launching Discoveries with **Data-Driven Code**</h1>  
+**🚀 Launching Discoveries with Data-Driven Code** 
 
 ---
 
-<h1>Patrick Carlberg&nbsp;|&nbsp;Scientist</h1>&nbsp;|&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=CJROCKBALL&style=for-the-badge&color=blue)
+<h2>Patrick Carlberg&nbsp;|&nbsp;Scientist</h2>&nbsp;|&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=CJROCKBALL&style=for-the-badge&color=blue)
 
 **Nanotechnology Research Scientist&nbsp;|&nbsp;Machine Learning Engineer&nbsp;|&nbsp;Data Analysis**
 
