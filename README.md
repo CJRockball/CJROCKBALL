@@ -1,11 +1,9 @@
 # 🚀 Launching Discoveries with **Data-Driven Code**  
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket-small.gif" height="28">
 
-![Profile Views](https://komarev.com/ghpvc/?username=CJROCKBALL&style=for-the-badge&color=blue)
-
 ---
 
-# Patrick Carlberg&nbsp;|&nbsp;Scientist  
+# Patrick Carlberg&nbsp;|&nbsp;Scientist&nbsp;|&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=CJROCKBALL&style=for-the-badge&color=blue)
 
 **Nanotechnology Research Scientist&nbsp;|&nbsp;Machine Learning Engineer&nbsp;|&nbsp;Data Analysis**
 
