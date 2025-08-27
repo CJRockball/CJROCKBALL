@@ -5,7 +5,7 @@
 
 ---
 
-# Patrick Carlberg&nbsp;|&nbsp;Data Engineer & Research Scientist  
+# Patrick Carlberg&nbsp;|&nbsp;Scientist  
 
 **Nanotechnology Research Scientist&nbsp;|&nbsp;Machine Learning Engineer&nbsp;|&nbsp;Data Analysis**
 
