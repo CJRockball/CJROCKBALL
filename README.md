@@ -5,8 +5,6 @@
 
 ---
 
-**Nanotechnology Research Scientist&nbsp;|&nbsp;Machine Learning Engineer&nbsp;|&nbsp;Data Analysis**
-
 **🔬 Semiconductor & Materials Science Background**  
 PhD-level nanotechnology scientist with 10+ years of experience in statistical analysis of semiconductor manufacturing processes, material characterization, and device measurements. Expertise spans hypothesis testing, ANOVA, time-series analysis, and Six Sigma methodologies applied to tool development and process optimization.
 
