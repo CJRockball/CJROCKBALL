@@ -1,4 +1,4 @@
-<<h1 align="center" style="border:none; padding-bottom:0;">>🚀 Launching Discoveries with **Data-Driven Code**</h2>  
+<h1 align="left" style="border:none; padding-bottom:0;">🚀 Launching Discoveries with **Data-Driven Code**</h2>  
 
 ---
 
