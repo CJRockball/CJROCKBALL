@@ -1,4 +1,4 @@
-#🚀 Launching Discoveries with **Data-Driven Code** 
+🚀 Launching Discoveries with **Data-Driven Code** 
 
 
 <p style="font-size:1.9rem; font-weight:700; margin:0;">Patrick Carlberg&nbsp;|&nbsp;Scientist</p>
