@@ -42,7 +42,7 @@ Building **stateful AI agents** is my newest focus. I’m using the open-source 
 FastAPI microservice predicting restaurant totals (Docker-ready).  → <https://github.com/CJRockball/pred_service>
 
 🛒 **Food Demand Forecast**  
-End-to-end notebooks for the AV dataset with XGBoost pipelines.  → <https://github.com/CJRockball/Food_Prediction>
+End-to-end notebooks for the AV dataset with XGBoost pipelines.  → <https://github.com/CJRockball/pred_service>
 
 🌀 **Mandelbrot GPU**  
 CUDA-powered fractal explorer with real-time zoom.  → <https://github.com/CJRockball/Mandelbrot>
