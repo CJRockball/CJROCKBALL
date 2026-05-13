@@ -39,7 +39,7 @@ Building **stateful AI agents** is my newest focus. I’m using the open-source 
 🔭 **Demo Corner**
 
 🥧 **ML Modelling**  
-Full evaluation of the adult salary dataset including EDA, modellin and evaluation.  → <https://github.com/CJRockball/adult_dataset_analysis_notebooks>
+Full evaluation of the adult salary dataset including EDA, modelling and evaluation.  → <https://github.com/CJRockball/adult_dataset_analysis_notebooks>
 
 Some raw model example based on the kaggle s5e12 competition dataset  → <https://github.com/CJRockball/kaggles5e12_diabetes>
 
