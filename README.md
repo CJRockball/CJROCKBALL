@@ -45,8 +45,8 @@ Some raw model example based on the kaggle s5e12 competition dataset  → <https
 
 FastAPI microservice predicting restaurant totals (Docker-ready).  → <https://github.com/CJRockball/pred_service>
 
-🛒 **Food Demand Forecast**  
-End-to-end notebooks for the AV dataset with XGBoost pipelines.  → <https://github.com/CJRockball/pred_service>
+🛒 **Statistics**  
+GLMM notebooks.  → <https://github.com/CJRockball/stat_glmm>
 
 🌀 **Mandelbrot GPU**  
 CUDA-powered fractal explorer with real-time zoom.  → <https://github.com/CJRockball/Mandelbrot>
