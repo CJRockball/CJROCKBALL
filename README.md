@@ -41,18 +41,18 @@ Building **stateful AI agents** is my newest focus. I’m using the open-source 
 🥧 **ML Modelling**  
 Full evaluation of the adult salary dataset including EDA, modelling and evaluation.  → [`dataset eval`](https://github.com/CJRockball/adult_dataset_analysis_notebooks)
 
-Some raw model example based on the kaggle s5e12 competition dataset  → <https://github.com/CJRockball/kaggles5e12_diabetes>
+Some raw model example based on the kaggle s5e12 competition dataset  → [`raw models`](https://github.com/CJRockball/kaggles5e12_diabetes)
 
-FastAPI microservice predicting restaurant totals (Docker-ready).  → <https://github.com/CJRockball/pred_service>
+FastAPI microservice predicting restaurant totals (Docker-ready).  → ['fast api`](https://github.com/CJRockball/pred_service)
 
 🛒 **Statistics**  
-GLMM notebooks.  → <https://github.com/CJRockball/stat_glmm>
+GLMM notebooks.  → [`GLMM`](https://github.com/CJRockball/stat_glmm)
 
 🌀 **Mandelbrot GPU**  
-CUDA-powered fractal explorer with real-time zoom.  → <https://github.com/CJRockball/Mandelbrot>
+CUDA-powered fractal explorer with real-time zoom.  → [`CUDA`](https://github.com/CJRockball/Mandelbrot)
 
 📈 **Streaming Plot**  
-WebSocket server streaming data into interactive Bokeh charts.  → <https://github.com/CJRockball/streaming-plot>
+WebSocket server streaming data into interactive Bokeh charts.  → [`Live plotting`](https://github.com/CJRockball/streaming-plot)
 
 ---
 
