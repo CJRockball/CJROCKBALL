@@ -32,9 +32,9 @@ Building **stateful AI agents** is my newest focus. I’m using the open-source 
 
 🛠 **Current Interests** · Scientific computing • Algorithm optimization • Multi-angle dataset exploration • Async web APIs • Automated validation pipelines • Agentic systems  
 
-📖 **Tech Stack Snapshot** · Python • PyTorch • GBDT • scikit-learn • PyMC3 • NumPy/SciPy • Pandas • FastAPI • WebSocket • Docker • SQL  
+📖 **Tech Stack Snapshot** · Python • PyTorch • GBDT • scikit-learn • PyMC3 • NumPy/SciPy • Pandas • FastAPI • WebSocket • Docker • SQL • Langgraph • LangChain 
 
-📚 **Past Exposure** · MATLAB · R · C/C++ · Markdown · CSS · PHP · Assembly · Java
+📚 **Past Exposure** • MATLAB • R • C/C++ • Markdown • CSS • PHP • Assembly • Java
 
 ---
 
