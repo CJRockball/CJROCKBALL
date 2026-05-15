@@ -17,7 +17,7 @@ Experience building production ML systems with FastAPI, applying MLOps practices
 Projects range from CUDA-accelerated Mandelbrot visualizations to WebSocket streaming dashboards and microservice-based prediction APIs. Advocate of clean code, thorough documentation, and user-centric design.
 
 **🔄 Continuous Learning & Experimentation**  
-Active GitHub contributor exploring MLOps, modern web frameworks, and interactive data applications while maintaining strong statistical foundations.
+Data Science Learning Portfolio — Documented 5-year upskilling journey: 70+ projects, 50+ certifications (Imperial College, Google Cloud, AWS), progressing from Python foundations to production MLOps, LLMs, and agentic AI systems. Includes interactive D3.js project timeline. [`learning journey`](https://github.com/CJRockball/learning_journey/tree/main)
 
 
 **🤖 Agents & LangGraph**  
@@ -39,7 +39,7 @@ Building **stateful AI agents** is my newest focus. I’m using the open-source 
 🔭 **Demo Corner**
 
 🥧 **ML Modelling**  
-Full evaluation of the adult salary dataset including EDA, modelling and evaluation.  → <https://github.com/CJRockball/adult_dataset_analysis_notebooks>
+Full evaluation of the adult salary dataset including EDA, modelling and evaluation.  → [`dataset eval`](https://github.com/CJRockball/adult_dataset_analysis_notebooks)
 
 Some raw model example based on the kaggle s5e12 competition dataset  → <https://github.com/CJRockball/kaggles5e12_diabetes>
 
