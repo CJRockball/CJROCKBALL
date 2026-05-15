@@ -17,7 +17,7 @@ Experience building production ML systems with FastAPI, applying MLOps practices
 Projects range from CUDA-accelerated Mandelbrot visualizations to WebSocket streaming dashboards and microservice-based prediction APIs. Advocate of clean code, thorough documentation, and user-centric design.
 
 **🔄 Continuous Learning & Experimentation**  
-Data Science Learning Portfolio — Documented 5-year upskilling journey: 70+ projects, 50+ certifications (Imperial College, Google Cloud, AWS), progressing from Python foundations to production MLOps, LLMs, and agentic AI systems. Includes interactive D3.js project timeline. [`learning journey`](https://github.com/CJRockball/learning_journey/tree/main)
+Data Science Learning Portfolio — Documented 5-year upskilling journey: 70+ projects, 50+ certifications (Imperial College, Google Cloud, AWS), progressing from Python foundations to production LLMs, and agentic AI systems, MLOps. Includes interactive D3.js project timeline. [`learning journey`](https://github.com/CJRockball/learning_journey/tree/main)
 
 
 **🤖 Agents & LangGraph**  
@@ -32,7 +32,7 @@ Building **stateful AI agents** is my newest focus. I’m using the open-source 
 
 🛠 **Current Interests** · Scientific computing • Algorithm optimization • Multi-angle dataset exploration • Async web APIs • Automated validation pipelines • Agentic systems  
 
-📚 **Tech Stack Snapshot** · Python • PyTorch • GBDT • scikit-learn • PyMC3 • NumPy/SciPy • Pandas/Polars • FastAPI • WebSocket • Docker • SQL  
+📚 **Tech Stack Snapshot** · Python • PyTorch • GBDT • scikit-learn • PyMC3 • NumPy/SciPy • Pandas • FastAPI • WebSocket • Docker • SQL  
 
 ---
 
