@@ -34,6 +34,8 @@ Building **stateful AI agents** is my newest focus. I’m using the open-source 
 
 📚 **Tech Stack Snapshot** · Python • PyTorch • GBDT • scikit-learn • PyMC3 • NumPy/SciPy • Pandas • FastAPI • WebSocket • Docker • SQL  
 
+**Past Exposure** · MATLAB · R · C/C++ · Markdown · CSS · PHP · Assembly · Java
+
 ---
 
 🔭 **Demo Corner**
@@ -90,17 +92,6 @@ WebSocket server streaming data into interactive Bokeh charts.  → [`Live plott
 ![MINITAB](https://img.shields.io/badge/MINITAB-4EAA25?style=plastic&logo=marketo&logoColor=white)
 ![JMP](https://img.shields.io/badge/JMP-FA5C5C?style=plastic&logo=anaconda&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-0B5CAB?style=plastic&logo=tableau&logoColor=white)
-
-### :hammer_and_wrench: Some Experience
-![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=plastic&logo=verilog&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-157286?style=plastic&logo=css3&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0B5CAB?style=plastic&logo=mathworks&logoColor=white)
 
 ---
 
