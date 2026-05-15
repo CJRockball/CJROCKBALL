@@ -43,7 +43,7 @@ Full evaluation of the adult salary dataset including EDA, modelling and evaluat
 
 Some raw model example based on the kaggle s5e12 competition dataset  → [`raw models`](https://github.com/CJRockball/kaggles5e12_diabetes)
 
-FastAPI microservice predicting restaurant totals (Docker-ready).  → ['fast api`](https://github.com/CJRockball/pred_service)
+FastAPI microservice predicting restaurant totals (Docker-ready).  → [`fast api`](https://github.com/CJRockball/pred_service)
 
 🛒 **Statistics**  
 GLMM notebooks.  → [`GLMM`](https://github.com/CJRockball/stat_glmm)
