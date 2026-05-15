@@ -70,7 +70,7 @@ WebSocket server streaming data into interactive Bokeh charts.  → [`Live plott
 ![Scikit-learn](https://img.shields.io/badge/Sklearn-2878A2?style=plastic&logo=scikitlearn&logoColor=white)
 ![Langgraph](https://img.shields.io/badge/LangGraph-#2472f0?style=plastic)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-#5236ad&logo=statsmodels&logoColor=white)
-![example](https://img.shields.io/badge/Statsmodels-#5236ad)
+![example](https://img.shields.io/badge/Statsmodels-8A2BE2)
 ![PYMC](https://img.shields.io/badge/PYMC-#3476d9?style=plastic&logo=PyMC&logoColor=white)
 ![Dask](https://img.shields.io/badge/Dask-EF1161?style=plastic&logo=dask&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=plastic&logo=nvidia&logoColor=white)
