@@ -87,11 +87,10 @@ WebSocket server streaming data into interactive Bokeh charts.  → [`Live plott
 ![Git](https://img.shields.io/badge/Git-E44C30?style=plastic&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=plastic&logo=visual-studio-code&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=plastic&logo=raspberrypi&logoColor=white)
 ![MINITAB](https://img.shields.io/badge/MINITAB-4EAA25?style=plastic&logo=marketo&logoColor=white)
 ![JMP](https://img.shields.io/badge/JMP-FA5C5C?style=plastic&logo=anaconda&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-0B5CAB?style=plastic&logo=tableau&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=plastic&logo=raspberrypi&logoColor=white)
 
 ---
 
