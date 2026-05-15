@@ -62,21 +62,21 @@ WebSocket server streaming data into interactive Bokeh charts.  → [`Live plott
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=plastic&logo=database&logoColor=white)
 
 ### :toolbox: Python Frameworks and Libraries
+![XGBoost](https://img.shields.io/badge/XGBoost-276DC3?style=plastic&logo=xgboost&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FF6F00?style=plastic&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=plastic&logo=fastapi&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Sklearn-2878A2?style=plastic&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-276DC3?style=plastic&logo=xgboost&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-FF6F00?style=plastic&logo=pytorch&logoColor=white)
 ![Dask](https://img.shields.io/badge/Dask-EF1161?style=plastic&logo=dask&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=plastic&logo=nvidia&logoColor=white)
 
 ### :file_cabinet: Databases & Cloud Hosting
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0078D7?style=plastic&logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)
 
 ### :computer: Software & Tools
 ![Git](https://img.shields.io/badge/Git-E44C30?style=plastic&logo=git&logoColor=white)
