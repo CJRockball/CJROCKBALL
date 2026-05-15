@@ -34,7 +34,7 @@ Building **stateful AI agents** is my newest focus. I’m using the open-source 
 
 📚 **Tech Stack Snapshot** · Python • PyTorch • GBDT • scikit-learn • PyMC3 • NumPy/SciPy • Pandas • FastAPI • WebSocket • Docker • SQL  
 
-**Past Exposure** · MATLAB · R · C/C++ · Markdown · CSS · PHP · Assembly · Java
+   **Past Exposure** · MATLAB · R · C/C++ · Markdown · CSS · PHP · Assembly · Java
 
 ---
 
@@ -47,7 +47,7 @@ Some raw model example based on the kaggle s5e12 competition dataset  → [`raw 
 
 FastAPI microservice predicting restaurant totals (Docker-ready).  → [`fast api`](https://github.com/CJRockball/pred_service)
 
-🛒 **Statistics**  
+📊 **Statistics**  
 GLMM notebooks.  → [`GLMM`](https://github.com/CJRockball/stat_glmm)
 
 🌀 **Mandelbrot GPU**  
