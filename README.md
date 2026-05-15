@@ -38,7 +38,7 @@ Building **stateful AI agents** is my newest focus. I’m using the open-source 
 
 ---
 
-🔭 ### **Demo Corner**
+### telescope: **Demo Corner**
 
 🥧 **ML Modelling**  
 Full evaluation of the adult salary dataset including EDA, modelling and evaluation.  → [`dataset eval`](https://github.com/CJRockball/adult_dataset_analysis_notebooks)
