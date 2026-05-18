@@ -46,7 +46,9 @@ Full evaluation of the adult salary dataset including EDA, modelling and evaluat
 Some raw model example based on the kaggle s5e12 competition dataset  → [`raw models`](https://github.com/CJRockball/kaggles5e12_diabetes)
 
 🛎️ **Services**  
-FastAPI microservice predicting personality (Docker-ready).  → [`fast api`](https://github.com/CJRockball/xgb-predict)
+FasrAPI microservice predicting restaurant tab (Docker-ready).  → [`fast api1`](https://github.com/CJRockball/pred_service)
+
+FastAPI microservice predicting personality (Docker-ready).  → [`fast api2`](https://github.com/CJRockball/xgb-predict)
 
 Streamlit rag agent, more complete service with tests and CI. → [`served chat agent`](https://github.com/CJRockball/rag-chat)
 
